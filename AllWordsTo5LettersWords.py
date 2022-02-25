@@ -6,6 +6,11 @@ def normalize(s):
         ("í", "i"),
         ("ó", "o"),
         ("ú", "u"),
+        ("ä", "a"),
+        ("ë", "e"),
+        ("ï", "i"),
+        ("ö", "o"),
+        ("ü", "u"),
     )
     for a, b in replacements:
         s = s.replace(a, b).replace(a.upper(), b.upper())
