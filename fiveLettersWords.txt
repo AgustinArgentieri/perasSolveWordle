@@ -22,7 +22,7 @@ pureo
 rubio
 mimar
 funge
-acuño
+acuï¿½o
 ligas
 sondo
 bizme
@@ -39,7 +39,7 @@ torso
 pipen
 dopad
 borda
-heñir
+heï¿½ir
 carel
 nueva
 salee
@@ -60,7 +60,7 @@ acero
 pesga
 pipon
 letal
-muñia
+muï¿½ia
 colee
 rocie
 ruais
@@ -71,9 +71,9 @@ sirve
 reblo
 hurte
 beoda
-doñee
+doï¿½ee
 baden
-preña
+preï¿½a
 rojee
 freza
 lobeo
@@ -90,7 +90,7 @@ argan
 atijo
 pelee
 gordo
-tañed
+taï¿½ed
 guise
 otero
 parra
@@ -163,7 +163,7 @@ besad
 jacha
 tries
 sport
-fañan
+faï¿½an
 creyo
 omine
 turna
@@ -212,7 +212,7 @@ clown
 chira
 humus
 cenen
-ñengo
+ï¿½engo
 siria
 losan
 fisga
@@ -262,10 +262,10 @@ adies
 acimo
 chima
 mojel
-reñir
+reï¿½ir
 ocuje
 lecha
-ñaque
+ï¿½aque
 cuati
 colpa
 ocume
@@ -299,7 +299,7 @@ domes
 broce
 poema
 jubon
-roñal
+roï¿½al
 ziper
 guiri
 basis
@@ -308,7 +308,7 @@ meten
 jaleo
 rucar
 fluia
-fañen
+faï¿½en
 horca
 rocin
 curda
@@ -350,7 +350,7 @@ ateta
 clima
 batis
 solio
-ñenga
+ï¿½enga
 brial
 tozal
 vedas
@@ -381,11 +381,11 @@ ajuma
 oigas
 ubico
 piafo
-jiñes
+jiï¿½es
 belga
 trisa
 mulsa
-fañas
+faï¿½as
 reoca
 domad
 carst
@@ -418,7 +418,7 @@ acoco
 curri
 geton
 topon
-fañad
+faï¿½ad
 duran
 vigie
 yapan
@@ -437,7 +437,7 @@ macla
 biter
 corda
 ucase
-gañen
+gaï¿½en
 tempo
 torca
 turca
@@ -447,7 +447,7 @@ falto
 troza
 tabor
 zonta
-hiñir
+hiï¿½ir
 amblo
 estay
 melsa
@@ -463,8 +463,8 @@ alojo
 guaba
 tarja
 parsi
-bruño
-miñon
+bruï¿½o
+miï¿½on
 panga
 cutra
 joded
@@ -533,7 +533,7 @@ hacho
 gafen
 apoye
 salte
-tañas
+taï¿½as
 vibro
 forro
 bocel
@@ -645,7 +645,7 @@ pirra
 acame
 feche
 comer
-soñad
+soï¿½ad
 aovar
 probe
 cepti
@@ -679,7 +679,7 @@ ojalo
 talad
 fetua
 giban
-guiño
+guiï¿½o
 atibe
 follo
 totol
@@ -738,7 +738,7 @@ tazar
 zarpo
 sorba
 groad
-jiñar
+jiï¿½ar
 jifia
 finan
 talgo
@@ -768,7 +768,7 @@ viudo
 fosil
 lacad
 alada
-uñoso
+uï¿½oso
 ajeno
 arija
 decae
@@ -783,10 +783,10 @@ nacia
 morma
 majen
 uvera
-bruña
+bruï¿½a
 unian
 bicha
-niñez
+niï¿½ez
 asana
 aojes
 lomea
@@ -842,7 +842,7 @@ sexta
 pelar
 sunni
 tanco
-mañio
+maï¿½io
 diste
 latia
 asian
@@ -874,13 +874,13 @@ porro
 rampe
 adido
 cocho
-añeja
+aï¿½eja
 dobla
 abria
 graba
 rispo
 milpa
-plañi
+plaï¿½i
 hongo
 tocar
 fache
@@ -931,7 +931,7 @@ anudo
 seria
 halla
 mareo
-leñar
+leï¿½ar
 lavas
 triza
 timba
@@ -945,7 +945,7 @@ timpa
 varea
 sarda
 razar
-toñil
+toï¿½il
 poyar
 hiele
 sobeo
@@ -1001,7 +1001,7 @@ pendi
 uncen
 roson
 herra
-reñis
+reï¿½is
 rogas
 rujan
 tauro
@@ -1009,7 +1009,7 @@ tibie
 abobe
 ronzo
 valgo
-ñonga
+ï¿½onga
 chera
 bable
 raizo
@@ -1037,7 +1037,7 @@ reved
 roldo
 cesen
 hatee
-ñango
+ï¿½ango
 della
 cagas
 elite
@@ -1077,16 +1077,16 @@ islan
 atobe
 arrue
 tesad
-hiñen
+hiï¿½en
 masai
-aceña
+aceï¿½a
 eleto
 oimos
-bañen
+baï¿½en
 leseo
 porra
 hogar
-coñee
+coï¿½ee
 jauto
 gruji
 kirie
@@ -1137,7 +1137,7 @@ lance
 luire
 volar
 elepe
-cuñad
+cuï¿½ad
 tenca
 dubio
 emula
@@ -1178,7 +1178,7 @@ vetad
 novia
 acule
 ligad
-gañis
+gaï¿½is
 osado
 monga
 tajen
@@ -1215,7 +1215,7 @@ abiar
 garpe
 avias
 togue
-añore
+aï¿½ore
 zoilo
 adore
 puado
@@ -1227,7 +1227,7 @@ huaco
 ruede
 leera
 adire
-greña
+greï¿½a
 gozas
 maori
 pacae
@@ -1259,10 +1259,10 @@ ardio
 duque
 reyen
 fruyo
-quiño
+quiï¿½o
 popan
 sauna
-ruñan
+ruï¿½an
 tenaz
 fingi
 gante
@@ -1271,7 +1271,7 @@ tufeo
 graso
 acial
 zejel
-teñir
+teï¿½ir
 coine
 pajel
 parce
@@ -1279,7 +1279,7 @@ bedel
 ocapi
 omito
 odien
-teñid
+teï¿½id
 aduja
 rusto
 nipos
@@ -1337,12 +1337,12 @@ joyel
 torco
 chave
 adujo
-zuñis
+zuï¿½is
 abito
 pense
-gruño
+gruï¿½o
 acote
-diñas
+diï¿½as
 gozne
 meced
 nansa
@@ -1363,15 +1363,15 @@ revio
 labra
 gozon
 lugar
-muñid
+muï¿½id
 roleo
 taren
 lamen
 horro
 raceo
-lueñe
+lueï¿½e
 amola
-reñia
+reï¿½ia
 tramo
 maser
 tapir
@@ -1444,7 +1444,7 @@ poyal
 calmo
 sacha
 raspo
-apañe
+apaï¿½e
 apodo
 ladee
 pasea
@@ -1501,7 +1501,7 @@ multa
 pelan
 siega
 atore
-ceñir
+ceï¿½ir
 brazo
 odies
 donde
@@ -1529,7 +1529,7 @@ galga
 atase
 cenar
 ciara
-aruña
+aruï¿½a
 irgue
 efeto
 pipes
@@ -1579,7 +1579,7 @@ ilusa
 hilas
 lijes
 frene
-gruña
+gruï¿½a
 varad
 ciego
 popel
@@ -1592,7 +1592,7 @@ bulle
 gansa
 alema
 fonje
-jiñen
+jiï¿½en
 tejio
 ochio
 epoto
@@ -1623,7 +1623,7 @@ usara
 dimir
 adoso
 oasis
-cañon
+caï¿½on
 giren
 amelo
 comio
@@ -1707,7 +1707,7 @@ manid
 catin
 suene
 denso
-añilo
+aï¿½ilo
 abusa
 parlo
 recre
@@ -1716,7 +1716,7 @@ befes
 pegad
 ruche
 tosas
-jiñas
+jiï¿½as
 cumel
 anexe
 rasel
@@ -1725,7 +1725,7 @@ lucen
 galon
 olura
 cabal
-tiñes
+tiï¿½es
 salia
 desda
 zompa
@@ -1760,7 +1760,7 @@ trapo
 luxas
 sopan
 moris
-otoño
+otoï¿½o
 laido
 sedes
 larda
@@ -1802,7 +1802,7 @@ toqui
 ajean
 rezad
 talco
-otoña
+otoï¿½a
 felpe
 verme
 lardo
@@ -1833,7 +1833,7 @@ bahai
 fosen
 ahite
 harma
-ataño
+ataï¿½o
 arabe
 luche
 argui
@@ -1860,7 +1860,7 @@ cocer
 soase
 rusel
 rompe
-acuña
+acuï¿½a
 matea
 anulo
 guzla
@@ -1901,7 +1901,7 @@ fermi
 cabia
 vahea
 mulle
-amaña
+amaï¿½a
 corlo
 cameo
 fonio
@@ -1916,7 +1916,7 @@ puyas
 paris
 murta
 tambo
-coñac
+coï¿½ac
 zueca
 palca
 asees
@@ -1960,7 +1960,7 @@ tatay
 abobo
 anote
 vapor
-mañeo
+maï¿½eo
 totem
 porto
 ademo
@@ -1973,7 +1973,7 @@ guipa
 pegon
 cicle
 rodio
-tiñan
+tiï¿½an
 arome
 arepa
 pizza
@@ -2051,7 +2051,7 @@ razia
 datar
 fusca
 gatee
-tañan
+taï¿½an
 hedio
 ascar
 veste
@@ -2093,7 +2093,7 @@ podra
 chifa
 agolo
 bogad
-piñal
+piï¿½al
 ropon
 playa
 unten
@@ -2105,7 +2105,7 @@ joyon
 ricen
 tejed
 jaral
-gañin
+gaï¿½in
 osada
 muero
 aerea
@@ -2115,7 +2115,7 @@ ducas
 adama
 relve
 tomes
-señan
+seï¿½an
 olear
 mofan
 hoque
@@ -2150,7 +2150,7 @@ asolo
 italo
 hilen
 niste
-reñid
+reï¿½id
 maulo
 suabo
 manca
@@ -2201,7 +2201,7 @@ vivaz
 abate
 papar
 dieta
-aliñe
+aliï¿½e
 acara
 logia
 colme
@@ -2216,7 +2216,7 @@ gruje
 parar
 soldo
 fular
-ñurda
+ï¿½urda
 chuza
 magio
 arpon
@@ -2264,7 +2264,7 @@ visas
 azoas
 censo
 mugil
-peñol
+peï¿½ol
 alfiz
 etapa
 dudan
@@ -2275,7 +2275,7 @@ copie
 falla
 zanjo
 emana
-apuña
+apuï¿½a
 atrae
 untan
 safir
@@ -2283,7 +2283,7 @@ plato
 forma
 eforo
 cabas
-lañan
+laï¿½an
 ojosa
 sexes
 ireis
@@ -2306,7 +2306,7 @@ hojea
 fuste
 gorja
 rampa
-peaña
+peaï¿½a
 popad
 asead
 dudes
@@ -2336,7 +2336,7 @@ goces
 arman
 cecee
 bebed
-dueña
+dueï¿½a
 orees
 cejas
 toral
@@ -2405,7 +2405,7 @@ arras
 lujar
 murar
 cacee
-ñique
+ï¿½ique
 socol
 tejia
 azoar
@@ -2415,7 +2415,7 @@ vista
 sobon
 final
 huasa
-muñes
+muï¿½es
 nahoa
 rindo
 ramio
@@ -2459,7 +2459,7 @@ llave
 galce
 dalla
 llana
-chuño
+chuï¿½o
 legad
 avece
 clota
@@ -2471,7 +2471,7 @@ manus
 garbo
 acoso
 tirro
-aruñe
+aruï¿½e
 novio
 bufen
 cuete
@@ -2542,7 +2542,7 @@ breen
 pudra
 urgio
 vendo
-apiño
+apiï¿½o
 velan
 azogo
 amera
@@ -2620,7 +2620,7 @@ asumi
 pibon
 arbol
 peana
-plañe
+plaï¿½e
 grabo
 nimba
 apune
@@ -2653,7 +2653,7 @@ ethos
 zulle
 resma
 salar
-ñuzco
+ï¿½uzco
 holee
 rases
 surgi
@@ -2661,14 +2661,14 @@ debed
 ferre
 quita
 testo
-riñon
+riï¿½on
 mallo
 drama
 guate
 sopie
 obron
 zaida
-zuñir
+zuï¿½ir
 terso
 arete
 laque
@@ -2683,7 +2683,7 @@ macio
 vatio
 video
 holla
-uñero
+uï¿½ero
 abuzo
 pinar
 festa
@@ -2780,7 +2780,7 @@ tebeo
 fiase
 lindo
 tacon
-ceñis
+ceï¿½is
 pupan
 yagas
 alean
@@ -2789,7 +2789,7 @@ ayuno
 cuape
 blues
 depre
-heñid
+heï¿½id
 omino
 topen
 ahoye
@@ -2816,7 +2816,7 @@ alune
 sauco
 apuse
 acida
-coñon
+coï¿½on
 rosta
 celta
 nutra
@@ -2860,7 +2860,7 @@ barra
 grisu
 broza
 joche
-gañan
+gaï¿½an
 pasma
 cofin
 beron
@@ -2870,11 +2870,11 @@ ateza
 pelas
 bausa
 debas
-diñan
+diï¿½an
 golfa
 yante
 pomar
-riñan
+riï¿½an
 rulan
 modio
 poste
@@ -2931,7 +2931,7 @@ jurco
 citar
 piala
 usase
-tañer
+taï¿½er
 chono
 sable
 mudan
@@ -2952,7 +2952,7 @@ longo
 ramal
 sobao
 pulpa
-bañan
+baï¿½an
 firma
 diado
 calan
@@ -3009,7 +3009,7 @@ rabeo
 amole
 suave
 pilan
-tiñas
+tiï¿½as
 pompa
 delga
 cusid
@@ -3017,7 +3017,7 @@ usais
 grelo
 yazca
 deesa
-apiñe
+apiï¿½e
 girar
 dulce
 asome
@@ -3040,7 +3040,7 @@ doles
 breas
 corco
 plise
-uñias
+uï¿½ias
 barco
 zalbo
 hundo
@@ -3060,8 +3060,8 @@ ojete
 anula
 chaza
 redes
-sueñe
-preñe
+sueï¿½e
+preï¿½e
 erogo
 parva
 briol
@@ -3071,7 +3071,7 @@ quijo
 trama
 rilar
 topea
-cañea
+caï¿½ea
 zurci
 copal
 poise
@@ -3103,9 +3103,9 @@ borra
 rajen
 incoo
 brugo
-arañe
+araï¿½e
 curta
-uñido
+uï¿½ido
 filio
 liben
 olivo
@@ -3131,7 +3131,7 @@ cucuy
 topan
 arraz
 bajar
-amaño
+amaï¿½o
 cause
 cavia
 acebo
@@ -3141,7 +3141,7 @@ opera
 bateo
 actue
 criar
-diñes
+diï¿½es
 honda
 osaba
 molla
@@ -3197,7 +3197,7 @@ alije
 modal
 torea
 ohmio
-ñublo
+ï¿½ublo
 beata
 ponci
 luyan
@@ -3207,7 +3207,7 @@ zurzo
 guara
 rijas
 bebop
-gañia
+gaï¿½ia
 chien
 sedan
 huida
@@ -3224,7 +3224,7 @@ palpa
 sesil
 linao
 apead
-roñar
+roï¿½ar
 hecha
 riela
 aulla
@@ -3252,7 +3252,7 @@ botor
 selva
 valuo
 ramon
-apaño
+apaï¿½o
 groas
 puton
 berre
@@ -3264,7 +3264,7 @@ petar
 caida
 aveni
 coste
-dañar
+daï¿½ar
 babel
 rupia
 tipex
@@ -3301,7 +3301,7 @@ menge
 migue
 hurta
 sesea
-niñea
+niï¿½ea
 peten
 arana
 erial
@@ -3325,7 +3325,7 @@ cauta
 tersa
 pujas
 motor
-señad
+seï¿½ad
 jacer
 aloba
 bocon
@@ -3338,12 +3338,12 @@ rabal
 cahiz
 muren
 siesa
-añoso
+aï¿½oso
 vinca
 afija
 venia
 valle
-fuñar
+fuï¿½ar
 cacan
 asico
 sigua
@@ -3374,7 +3374,7 @@ pifas
 osmio
 vallo
 cofre
-apuñe
+apuï¿½e
 sirga
 exito
 altar
@@ -3383,7 +3383,7 @@ roban
 albee
 guaje
 rombo
-lañes
+laï¿½es
 haces
 pirla
 ancha
@@ -3397,8 +3397,8 @@ agace
 mixta
 yidis
 acolo
-dañas
-añila
+daï¿½as
+aï¿½ila
 miaba
 queme
 ajoto
@@ -3432,17 +3432,17 @@ liman
 barbe
 proal
 bojan
-gañir
+gaï¿½ir
 bahia
 afamo
 bojes
 monse
 oliva
-braña
+braï¿½a
 craso
 pupen
 afije
-aliña
+aliï¿½a
 bembe
 aboli
 glial
@@ -3451,7 +3451,7 @@ leteo
 ibero
 ateis
 vasta
-añade
+aï¿½ade
 panel
 sumir
 sexto
@@ -3459,7 +3459,7 @@ payar
 ondee
 zurre
 lumia
-añoro
+aï¿½oro
 ingon
 chama
 talpa
@@ -3470,11 +3470,11 @@ bebio
 finte
 violo
 mitre
-señas
+seï¿½as
 cospe
 split
 simia
-añada
+aï¿½ada
 botea
 pausa
 vives
@@ -3554,7 +3554,7 @@ jeque
 jimar
 tigra
 binen
-juñir
+juï¿½ir
 jauda
 chuco
 metan
@@ -3570,12 +3570,12 @@ perno
 fenix
 zampa
 erras
-añina
-gañil
+aï¿½ina
+gaï¿½il
 yapas
 rueis
 menda
-añora
+aï¿½ora
 lunch
 licia
 matar
@@ -3600,7 +3600,7 @@ regad
 ovalo
 bical
 rorro
-tañad
+taï¿½ad
 masen
 odiar
 fatuo
@@ -3609,7 +3609,7 @@ perta
 parco
 riele
 tamul
-uñian
+uï¿½ian
 ducal
 holco
 tasan
@@ -3636,7 +3636,7 @@ crema
 locro
 pacte
 nazca
-coñea
+coï¿½ea
 jumas
 adiad
 tulle
@@ -3704,7 +3704,7 @@ melga
 crash
 meana
 punki
-doñea
+doï¿½ea
 gomet
 rojal
 palor
@@ -3728,7 +3728,7 @@ tesla
 groan
 muele
 carpa
-ñateo
+ï¿½ateo
 zarco
 tajea
 lisis
@@ -3758,7 +3758,7 @@ cusco
 helea
 tonga
 pirre
-añoja
+aï¿½oja
 densa
 queco
 cusas
@@ -3775,7 +3775,7 @@ rapta
 macis
 cabus
 olero
-zuñia
+zuï¿½ia
 raido
 gorro
 anear
@@ -3784,8 +3784,8 @@ preda
 cocar
 timol
 ajete
-muñon
-uñere
+muï¿½on
+uï¿½ere
 panco
 vulgo
 bulon
@@ -3797,7 +3797,7 @@ tiras
 ungid
 copla
 domas
-puñir
+puï¿½ir
 serra
 acudi
 topeo
@@ -3816,7 +3816,7 @@ cejar
 congo
 ideas
 minad
-soñar
+soï¿½ar
 egida
 anata
 bando
@@ -3838,7 +3838,7 @@ usina
 enteo
 puyad
 zurea
-dañan
+daï¿½an
 izaba
 acate
 pital
@@ -3847,7 +3847,7 @@ chula
 domen
 aleli
 cagon
-cañar
+caï¿½ar
 evadi
 hojee
 comia
@@ -3884,7 +3884,7 @@ brice
 adrar
 lucid
 acata
-zuñas
+zuï¿½as
 olote
 abres
 manga
@@ -3944,7 +3944,7 @@ ibais
 tiron
 adema
 noque
-lañar
+laï¿½ar
 morid
 inane
 salto
@@ -3975,7 +3975,7 @@ clame
 agave
 laxan
 negro
-araña
+araï¿½a
 rezas
 rajas
 senti
@@ -4002,7 +4002,7 @@ levas
 orine
 saria
 ferio
-plaña
+plaï¿½a
 remes
 presi
 tizna
@@ -4035,7 +4035,7 @@ teame
 musar
 locus
 medre
-apaña
+apaï¿½a
 rompo
 uncis
 fungi
@@ -4070,7 +4070,7 @@ docil
 anabi
 cajon
 depon
-riñen
+riï¿½en
 basen
 noray
 zaceo
@@ -4104,7 +4104,7 @@ acudo
 ligio
 apilo
 biten
-muñis
+muï¿½is
 cacha
 novel
 sorra
@@ -4126,7 +4126,7 @@ botee
 riada
 betel
 judas
-ciñan
+ciï¿½an
 cucad
 badan
 nitra
@@ -4189,7 +4189,7 @@ befas
 triga
 yazga
 censa
-maeño
+maeï¿½o
 dorna
 agoro
 oreis
@@ -4286,7 +4286,7 @@ pelta
 desde
 hiton
 lento
-ñongo
+ï¿½ongo
 mente
 micho
 tarjo
@@ -4392,7 +4392,7 @@ oislo
 sorbo
 dilui
 ojale
-añuda
+aï¿½uda
 acode
 coser
 rasad
@@ -4491,7 +4491,7 @@ hagan
 pucho
 tundi
 aspad
-ruñid
+ruï¿½id
 reman
 cetil
 hinca
@@ -4518,7 +4518,7 @@ baleo
 lesee
 menes
 podan
-ceñid
+ceï¿½id
 holle
 aquel
 rehus
@@ -4549,7 +4549,7 @@ apelo
 apano
 rodil
 catey
-uñais
+uï¿½ais
 acopo
 ululo
 juera
@@ -4598,7 +4598,7 @@ jobar
 anodo
 anaco
 urjan
-zuñes
+zuï¿½es
 bardo
 bolso
 ovejo
@@ -4611,7 +4611,7 @@ ludia
 aoves
 mandi
 biste
-uñado
+uï¿½ado
 placa
 torce
 venis
@@ -4632,7 +4632,7 @@ tosan
 furia
 expia
 crasa
-gañid
+gaï¿½id
 talle
 liceo
 solde
@@ -4705,7 +4705,7 @@ bramo
 singa
 sesgo
 adias
-añejo
+aï¿½ejo
 acilo
 guipo
 calas
@@ -4755,7 +4755,7 @@ femar
 atoen
 gubia
 humea
-tañen
+taï¿½en
 billa
 nobuk
 drope
@@ -4763,22 +4763,22 @@ lutea
 lanio
 osare
 aunan
-ñorbo
+ï¿½orbo
 banco
 hoyas
-lañas
+laï¿½as
 baten
 abrid
 aorta
 bocea
-señar
+seï¿½ar
 yodad
 kefir
 eluda
-cuñan
+cuï¿½an
 nogal
 wi fi
-ciñas
+ciï¿½as
 cunen
 apeen
 cabes
@@ -4806,15 +4806,15 @@ caten
 cotes
 opima
 azima
-ruñas
+ruï¿½as
 viese
 guiye
-cuñas
+cuï¿½as
 jumil
 guama
 conte
 hulas
-añojo
+aï¿½ojo
 balde
 cliso
 pipil
@@ -4833,7 +4833,7 @@ mesmo
 ralea
 cenia
 arder
-tañia
+taï¿½ia
 liron
 alero
 limar
@@ -4847,7 +4847,7 @@ fosan
 jimia
 cacto
 urdio
-lañad
+laï¿½ad
 vodca
 irupe
 parto
@@ -4862,7 +4862,7 @@ renio
 guaye
 quivi
 etnia
-ruñar
+ruï¿½ar
 acuse
 chita
 liria
@@ -4870,7 +4870,7 @@ cauto
 sanie
 sudor
 loare
-piñon
+piï¿½on
 drusa
 rolde
 clica
@@ -4882,7 +4882,7 @@ vajee
 afosa
 agito
 vagad
-cañee
+caï¿½ee
 dicha
 carda
 iceis
@@ -4897,10 +4897,10 @@ aneje
 tenta
 llago
 tetas
-peñon
+peï¿½on
 huero
 fiaba
-añero
+aï¿½ero
 asada
 cisne
 tomar
@@ -4930,7 +4930,7 @@ aguar
 parpa
 libon
 plano
-aliño
+aliï¿½o
 callo
 vulva
 nieve
@@ -4940,7 +4940,7 @@ paran
 unira
 palpi
 riges
-diñen
+diï¿½en
 tueco
 levad
 azala
@@ -4966,10 +4966,10 @@ plepa
 suche
 musli
 fajes
-muñan
+muï¿½an
 nacar
 arfes
-puñar
+puï¿½ar
 zabra
 arpes
 pitia
@@ -4998,7 +4998,7 @@ cinto
 linio
 pudio
 zacea
-cañal
+caï¿½al
 punto
 arpad
 gomer
@@ -5038,9 +5038,9 @@ falso
 impia
 curul
 donan
-diñar
+diï¿½ar
 hiela
-ñinga
+ï¿½inga
 tetes
 pinza
 hulea
@@ -5081,7 +5081,7 @@ amais
 islam
 basal
 frias
-bruñi
+bruï¿½i
 candi
 naipe
 viten
@@ -5178,7 +5178,7 @@ sello
 mugir
 canoa
 echas
-ñizca
+ï¿½izca
 sibil
 tiene
 yuras
@@ -5230,7 +5230,7 @@ tunan
 folio
 sonda
 ambla
-diñad
+diï¿½ad
 ahito
 crack
 ajear
@@ -5255,7 +5255,7 @@ liado
 posmo
 seran
 jerbo
-gañon
+gaï¿½on
 koala
 segur
 reveo
@@ -5293,7 +5293,7 @@ teche
 buril
 yente
 nitro
-ceñar
+ceï¿½ar
 tente
 varia
 samba
@@ -5309,7 +5309,7 @@ polvo
 fendi
 cegad
 roque
-cuñen
+cuï¿½en
 temes
 urgia
 stand
@@ -5321,7 +5321,7 @@ bonal
 sarde
 asile
 cholo
-quiña
+quiï¿½a
 subes
 fajar
 airee
@@ -5381,7 +5381,7 @@ eolio
 antia
 usier
 gules
-niñee
+niï¿½ee
 trata
 silfo
 opimo
@@ -5399,16 +5399,16 @@ jumee
 coita
 sabes
 riman
-cuñes
+cuï¿½es
 repto
 volee
 arroz
-guiña
+guiï¿½a
 heroe
 zarbo
 obrar
 merco
-añado
+aï¿½ado
 carra
 hozan
 viesa
@@ -5488,7 +5488,7 @@ turra
 sutil
 acabo
 nolit
-atañe
+ataï¿½e
 abite
 punza
 bulla
@@ -5512,8 +5512,8 @@ morfa
 libre
 reuno
 cular
-ciñes
-miaña
+ciï¿½es
+miaï¿½a
 pinta
 nuera
 jetee
@@ -5564,7 +5564,7 @@ huesa
 figon
 asedo
 parti
-añeje
+aï¿½eje
 untes
 traje
 cuela
@@ -5595,13 +5595,13 @@ azote
 radia
 zurda
 reira
-acuñe
+acuï¿½e
 cesas
 oveja
 sanea
 acana
-uñese
-sueño
+uï¿½ese
+sueï¿½o
 tasco
 batua
 puais
@@ -5613,7 +5613,7 @@ guabo
 curco
 dorso
 bufan
-lañen
+laï¿½en
 lucio
 nenia
 humas
@@ -5624,10 +5624,10 @@ frote
 amona
 salpa
 lijen
-gañas
+gaï¿½as
 tineo
 ligue
-uñire
+uï¿½ire
 cunde
 untad
 crias
@@ -5695,7 +5695,7 @@ cesan
 cesar
 limen
 cagad
-uñira
+uï¿½ira
 pavia
 floto
 ganas
@@ -5706,7 +5706,7 @@ mista
 marza
 asase
 ocien
-ruñir
+ruï¿½ir
 alola
 luxar
 dopen
@@ -5715,7 +5715,7 @@ fecho
 bache
 boina
 gramo
-rueño
+rueï¿½o
 catre
 guayo
 surdi
@@ -5791,9 +5791,9 @@ pesad
 taifa
 minie
 abuse
-maeña
+maeï¿½a
 sorce
-heñis
+heï¿½is
 fiada
 babeo
 salde
@@ -5821,7 +5821,7 @@ swing
 agore
 erala
 latee
-riñes
+riï¿½es
 medid
 bijol
 rasga
@@ -5856,7 +5856,7 @@ exuda
 cloca
 macia
 saben
-pañol
+paï¿½ol
 chano
 cubra
 heavy
@@ -5899,7 +5899,7 @@ yerto
 latea
 asido
 mamey
-cuñar
+cuï¿½ar
 acare
 eluye
 sedeo
@@ -5932,7 +5932,7 @@ bolla
 taled
 fista
 pumba
-ñurdo
+ï¿½urdo
 harpa
 fabro
 tomin
@@ -5983,7 +5983,7 @@ levan
 mogol
 rabia
 ardua
-ñusta
+ï¿½usta
 vocea
 chisa
 pajea
@@ -6007,7 +6007,7 @@ copia
 nutro
 chala
 exile
-bañes
+baï¿½es
 zoclo
 boque
 hosco
@@ -6057,7 +6057,7 @@ gamma
 vicho
 otica
 tegeo
-preño
+preï¿½o
 soaso
 vejen
 chafa
@@ -6130,7 +6130,7 @@ jateo
 solas
 huilo
 telar
-fañes
+faï¿½es
 racea
 ideal
 menta
@@ -6198,7 +6198,7 @@ rasen
 robre
 misal
 amate
-bañil
+baï¿½il
 teman
 erran
 flete
@@ -6209,7 +6209,7 @@ mezzo
 pepla
 colla
 burro
-ñatea
+ï¿½atea
 tunca
 senda
 jarra
@@ -6274,7 +6274,7 @@ canse
 rango
 leima
 apuna
-ruñia
+ruï¿½ia
 brego
 caven
 lunea
@@ -6295,7 +6295,7 @@ visto
 cucho
 mitad
 tenso
-zuñan
+zuï¿½an
 chuva
 ruara
 troje
@@ -6304,7 +6304,7 @@ impio
 situe
 tropo
 mujas
-ceñia
+ceï¿½ia
 pilaf
 locee
 mohur
@@ -6342,7 +6342,7 @@ pizca
 sobad
 humes
 piais
-aniño
+aniï¿½o
 majas
 lavan
 lodra
@@ -6389,10 +6389,10 @@ clube
 sueca
 ruase
 sexan
-miaño
+miaï¿½o
 pairo
 pecas
-hiñas
+hiï¿½as
 vejad
 estor
 buaro
@@ -6403,7 +6403,7 @@ mufti
 odeon
 mesar
 avien
-gruñe
+gruï¿½e
 llore
 rizon
 izais
@@ -6425,7 +6425,7 @@ vence
 jocho
 dices
 picop
-añile
+aï¿½ile
 hedia
 vires
 mensu
@@ -6549,7 +6549,7 @@ seico
 rompa
 cuido
 grajo
-ogaño
+ogaï¿½o
 subir
 veteo
 bofan
@@ -6601,7 +6601,7 @@ tarin
 tenio
 casea
 bonzo
-otoñe
+otoï¿½e
 gofro
 pecad
 atuso
@@ -6640,7 +6640,7 @@ jujeo
 dando
 luyas
 tened
-ñeque
+ï¿½eque
 canal
 manas
 macon
@@ -6709,7 +6709,7 @@ ahuso
 suzon
 tijul
 short
-teñia
+teï¿½ia
 opado
 tayin
 garla
@@ -6762,7 +6762,7 @@ fomes
 juzgo
 viran
 elida
-tañes
+taï¿½es
 bojen
 fibra
 yunta
@@ -6779,7 +6779,7 @@ moled
 meres
 lombo
 casar
-soñas
+soï¿½as
 tonel
 falua
 goton
@@ -6803,7 +6803,7 @@ raque
 morse
 cueto
 mache
-ñandu
+ï¿½andu
 veril
 porte
 relvo
@@ -6832,7 +6832,7 @@ pidas
 decai
 farsa
 trigo
-ñoñez
+ï¿½oï¿½ez
 novad
 salol
 itrio
@@ -6843,11 +6843,11 @@ trine
 geste
 nesgo
 quere
-muñir
+muï¿½ir
 chaco
 urdan
 lania
-ñatee
+ï¿½atee
 cimpa
 burda
 cosio
@@ -6897,7 +6897,7 @@ dudas
 rural
 chace
 jasen
-ñoqui
+ï¿½oqui
 molia
 sayal
 viren
@@ -6959,7 +6959,7 @@ crepa
 pulid
 orlas
 sepia
-ciñen
+ciï¿½en
 oidor
 mejan
 poleo
@@ -6976,7 +6976,7 @@ ayudo
 astil
 mures
 pobre
-muñas
+muï¿½as
 salla
 hijeo
 amasa
@@ -7004,7 +7004,7 @@ loses
 yacio
 ulano
 poner
-añera
+aï¿½era
 aupad
 pulpo
 tetan
@@ -7031,11 +7031,11 @@ afofo
 folle
 mofad
 traca
-aruño
+aruï¿½o
 alfas
 buera
 albal
-ñoclo
+ï¿½oclo
 pijin
 tacto
 taira
@@ -7050,7 +7050,7 @@ fenol
 visco
 sobra
 ahogo
-gruñi
+gruï¿½i
 pucha
 vichi
 proco
@@ -7102,7 +7102,7 @@ dudar
 pliso
 racor
 maple
-señor
+seï¿½or
 zofra
 llosa
 lempo
@@ -7143,7 +7143,7 @@ lirio
 palma
 rueda
 sazon
-heñia
+heï¿½ia
 trape
 rispe
 cafre
@@ -7171,7 +7171,7 @@ aseen
 cuajo
 nalca
 borde
-uñudo
+uï¿½udo
 quero
 fuero
 bolin
@@ -7259,7 +7259,7 @@ conga
 henil
 hunda
 recai
-quiñe
+quiï¿½e
 lisie
 sopea
 furto
@@ -7284,7 +7284,7 @@ rodad
 durar
 bledo
 fosar
-dañes
+daï¿½es
 esten
 ojito
 rocho
@@ -7301,7 +7301,7 @@ avida
 bayal
 piole
 ester
-dañen
+daï¿½en
 enula
 actua
 cebil
@@ -7394,7 +7394,7 @@ nabal
 hacen
 llega
 farda
-uñosa
+uï¿½osa
 cuzul
 ateto
 errad
@@ -7421,7 +7421,7 @@ filan
 roera
 teses
 debda
-ñanga
+ï¿½anga
 gayas
 tarca
 elijo
@@ -7478,7 +7478,7 @@ tiple
 bites
 groen
 picho
-muñen
+muï¿½en
 guipe
 rozno
 fruta
@@ -7544,7 +7544,7 @@ maoma
 peale
 peumo
 pacer
-mañea
+maï¿½ea
 talio
 befar
 peona
@@ -7554,7 +7554,7 @@ sonta
 funja
 tatua
 agrie
-pañal
+paï¿½al
 rumio
 fante
 pacto
@@ -7580,7 +7580,7 @@ tufea
 sajia
 jisca
 cavad
-niñeo
+niï¿½eo
 abiso
 ojoso
 mitin
@@ -7612,7 +7612,7 @@ teclo
 unais
 lesea
 ajeis
-breña
+breï¿½a
 roren
 suido
 fijen
@@ -7624,10 +7624,10 @@ galeo
 cusir
 vitor
 ocian
-añudo
+aï¿½udo
 grisa
 aurea
-ruñis
+ruï¿½is
 neles
 ovado
 milan
@@ -7683,7 +7683,7 @@ tarco
 zenda
 zarza
 perol
-tañar
+taï¿½ar
 piada
 varga
 yedra
@@ -7720,7 +7720,7 @@ tejer
 cobil
 coges
 guzga
-uñera
+uï¿½era
 otean
 jorfe
 novar
@@ -7729,7 +7729,7 @@ topee
 ricia
 cavea
 buzan
-hiñan
+hiï¿½an
 boton
 simon
 zuela
@@ -7755,7 +7755,7 @@ carne
 grade
 dahir
 cense
-añadi
+aï¿½adi
 bongo
 rapel
 guiso
@@ -7765,7 +7765,7 @@ apole
 acepa
 amago
 acede
-coñeo
+coï¿½eo
 redox
 cante
 harbe
@@ -7783,7 +7783,7 @@ jaiba
 feeza
 folie
 pipar
-plaño
+plaï¿½o
 amiri
 guado
 libia
@@ -7817,7 +7817,7 @@ leuda
 carde
 bisan
 recua
-deñar
+deï¿½ar
 ruido
 negus
 chile
@@ -7858,7 +7858,7 @@ toare
 grava
 ludan
 oreen
-bañad
+baï¿½ad
 tarso
 curry
 lataz
@@ -7887,11 +7887,11 @@ cedan
 hampo
 misen
 ajoro
-diaño
+diaï¿½o
 magra
 simil
 estos
-gañes
+gaï¿½es
 melad
 jemer
 ambos
@@ -7916,7 +7916,7 @@ hopas
 cucas
 expio
 vacan
-cuñal
+cuï¿½al
 tuper
 sonto
 sabio
@@ -7931,7 +7931,7 @@ llama
 teina
 agrio
 surge
-bañar
+baï¿½ar
 guido
 patio
 puedo
@@ -8014,7 +8014,7 @@ ajore
 cajeo
 legan
 argue
-roñia
+roï¿½ia
 edema
 ibera
 aviar
@@ -8037,7 +8037,7 @@ coqui
 campo
 perro
 gorme
-amañe
+amaï¿½e
 tapan
 cread
 patao
@@ -8052,10 +8052,10 @@ aleda
 fulja
 mudra
 aisle
-uñeta
+uï¿½eta
 pince
 pares
-ruñes
+ruï¿½es
 sacon
 aleje
 opaba
@@ -8101,7 +8101,7 @@ vetar
 laton
 pebre
 mamar
-ñecla
+ï¿½ecla
 valon
 zabro
 chele
@@ -8135,13 +8135,13 @@ cerco
 enejo
 muere
 crono
-añude
+aï¿½ude
 recen
 rejin
 boyen
 pesen
 guida
-añosa
+aï¿½osa
 jases
 migra
 dombo
@@ -8201,7 +8201,7 @@ cajee
 capan
 apane
 dende
-apuño
+apuï¿½o
 terma
 roces
 banyo
@@ -8236,11 +8236,11 @@ desoi
 mayan
 tocte
 cerna
-zuñen
+zuï¿½en
 digan
 amaga
 trufo
-guiñe
+guiï¿½e
 azoro
 rocen
 linee
@@ -8260,8 +8260,8 @@ puzol
 gongo
 fluid
 arupo
-puñal
-aniñe
+puï¿½al
+aniï¿½e
 brise
 afeas
 nieto
@@ -8271,14 +8271,14 @@ palta
 holga
 jarba
 retor
-pañil
+paï¿½il
 napia
 jalea
 ardil
 apure
 brees
 moves
-uñada
+uï¿½ada
 junio
 sosar
 aloco
@@ -8365,7 +8365,7 @@ turno
 vedad
 renal
 lazas
-riñas
+riï¿½as
 chupa
 bucal
 sapea
@@ -8380,7 +8380,7 @@ baila
 poker
 tanga
 albur
-dueño
+dueï¿½o
 pompo
 ponga
 litas
@@ -8396,7 +8396,7 @@ chiza
 garre
 curar
 lucre
-piñen
+piï¿½en
 epoca
 zanja
 exima
@@ -8431,7 +8431,7 @@ lorea
 torga
 poyad
 haron
-señen
+seï¿½en
 rilad
 melon
 lames
@@ -8440,9 +8440,9 @@ camba
 hipad
 mudar
 sopeo
-ruñad
+ruï¿½ad
 grado
-ñocha
+ï¿½ocha
 palmo
 sente
 bosta
@@ -8452,7 +8452,7 @@ manal
 cotas
 obten
 pipie
-moñon
+moï¿½on
 veten
 metio
 decia
@@ -8488,7 +8488,7 @@ galop
 estil
 salle
 punid
-tiñen
+tiï¿½en
 ojean
 vaida
 alfes
@@ -8527,7 +8527,7 @@ caton
 jalde
 praza
 ubica
-miañe
+miaï¿½e
 teste
 ralla
 adive
@@ -8591,9 +8591,9 @@ tanca
 capaz
 huifa
 vahes
-aniña
+aniï¿½a
 unges
-gueña
+gueï¿½a
 parpe
 luira
 minar
@@ -8620,7 +8620,7 @@ bisas
 poden
 jarca
 tunea
-bañas
+baï¿½as
 asume
 reste
 boten
@@ -8676,7 +8676,7 @@ cason
 mania
 jipia
 nariz
-cañeo
+caï¿½eo
 dudad
 salis
 asnal
@@ -8705,7 +8705,7 @@ puyes
 mueva
 gazno
 tongo
-añino
+aï¿½ino
 liais
 aguza
 pamba
@@ -8773,7 +8773,7 @@ celan
 vodka
 sifue
 fiera
-teñis
+teï¿½is
 local
 ficta
 jauta
@@ -8801,7 +8801,7 @@ fleco
 avala
 casal
 rajan
-sueña
+sueï¿½a
 luneo
 ramea
 bebas
@@ -8886,12 +8886,12 @@ uncir
 jopan
 asura
 bagas
-bruñe
+bruï¿½e
 jaezo
 debes
 canta
 sitio
-fañar
+faï¿½ar
 gulag
 higui
 salva
@@ -8918,7 +8918,7 @@ friso
 opilo
 rigua
 dundo
-ataña
+ataï¿½a
 bajon
 negas
 bajes
@@ -9003,7 +9003,7 @@ diple
 jiote
 duele
 girad
-ruñen
+ruï¿½en
 muble
 velen
 ensay
@@ -9032,7 +9032,7 @@ afano
 jajay
 curve
 azoad
-chuña
+chuï¿½a
 legue
 rallo
 pende
@@ -9082,7 +9082,7 @@ ojees
 ligon
 servi
 solfa
-araño
+araï¿½o
 vuele
 rutar
 veden
@@ -9102,7 +9102,7 @@ susto
 afate
 bitan
 expon
-zuñid
+zuï¿½id
 morfo
 cista
 ludas
@@ -9113,7 +9113,7 @@ azoan
 roras
 creen
 albeo
-dañad
+daï¿½ad
 sardo
 taima
 dogre
@@ -9127,7 +9127,7 @@ leuco
 afore
 cefea
 bruta
-ñampi
+ï¿½ampi
 basad
 mofen
 elega
@@ -9140,7 +9140,7 @@ acoto
 juren
 venta
 aguja
-jiñad
+jiï¿½ad
 migro
 rolen
 balen
@@ -9151,7 +9151,7 @@ carau
 pasco
 faino
 acora
-apiña
+apiï¿½a
 pipan
 yunga
 legal
@@ -9213,7 +9213,7 @@ cuaja
 ruejo
 tolda
 ajumo
-moñas
+moï¿½as
 freto
 misma
 orles
@@ -9295,10 +9295,10 @@ rapas
 ileso
 vente
 ciemo
-señes
+seï¿½es
 visea
 tecla
-hiñes
+hiï¿½es
 mosco
 caido
 bitad
@@ -9333,7 +9333,7 @@ senil
 exude
 monee
 andes
-uñate
+uï¿½ate
 boxee
 cajin
 selfi
@@ -9343,7 +9343,7 @@ sushi
 dique
 erase
 manda
-ñisca
+ï¿½isca
 trina
 orera
 jimes
@@ -9389,7 +9389,7 @@ rotes
 licue
 asumo
 azoes
-doñeo
+doï¿½eo
 parro
 leves
 cursi
@@ -9403,11 +9403,11 @@ malar
 merlo
 cumba
 pongo
-uñazo
+uï¿½azo
 rolas
 ligan
 adien
-mañee
+maï¿½ee
 burio
 alhoz
 arreo
@@ -9501,7 +9501,7 @@ viril
 calme
 surco
 atuse
-jiñan
+jiï¿½an
 asare
 suazi
 surda
@@ -9511,7 +9511,7 @@ yacon
 ceden
 guare
 tasca
-señal
+seï¿½al
 sifon
 vacar
 lasco
