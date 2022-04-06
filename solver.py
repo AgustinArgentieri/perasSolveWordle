@@ -112,11 +112,44 @@ if "a" in firstResponse:
             if "s" not in palabra:
                 dic.remove(palabra)
 
+if "trone" in dic:
+    print("No elimine TRONE en la primera vuelta 0.5")
 
+#Ya revise en el diccionario que la letra indicada en amarillo se encuentre en todas las palabras del diccionario.
+#Ahora reviso que en la posicion que marcamos en amarillo, no se encuentre la letra en cuestion.
+    if firstResponse[0] == "a":
+        for palabra in reversed(dic):
+            if palabra[0] == "p":
+                dic.remove(palabra)
+    if firstResponse[1] == "a":
+        for palabra in reversed(dic):
+            if palabra[1] == "e":
+                dic.remove(palabra)
+    if firstResponse[2] == "a":
+        for palabra in reversed(dic):
+            if palabra[2] == "r":
+                dic.remove(palabra)                
+    if firstResponse[3] == "a":
+        for palabra in reversed(dic):
+            if palabra[3] == "a":
+                dic.remove(palabra)
+    if firstResponse[4] == "a":
+        for palabra in reversed(dic):
+            if palabra[4] == "s":
+                dic.remove(palabra)
+
+if "trone" in dic:
+    print("No elimine TRONE en la primera vuelta")
 
 #SEGUNDA VUELTA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-for i in range(4):
-    secondSolution = dic[0] 
+for i in range(5):
+    print("Actualmente, existen " + str(len(dic)) + " palabras posibles.")
+
+    for palabra in dic: #Verifico que la palabra que voy a tomar de solucion, no tenga letras repetidas.
+        secondSolution = palabra
+        if len(set(palabra)) == 5:
+            break
+
     print("Para continuar el juego, debe introducir la palabra \"" + secondSolution + "\" como segunda respuesta")
     print("Una vez introducida la respuesta, vuelva a escribir el resultado obtenido con A, V, o G segun corresponda.")
 
@@ -192,5 +225,30 @@ for i in range(4):
                     dic.remove(palabra)
 
 
-print(dic)
-print("Actualmente, existen " + str(len(dic)) + " palabras posibles.")
+    #Ya revise en el diccionario que la letra indicada en amarillo se encuentre en todas las palabras del diccionario.
+    #Ahora reviso que en la posicion que marcamos en amarillo, no se encuentre la letra en cuestion.
+        if firstResponse[0] == "a":
+            for palabra in reversed(dic):
+                if palabra[0] == secondSolution[0]:
+                    dic.remove(palabra)
+        if firstResponse[1] == "a":
+            for palabra in reversed(dic):
+                if palabra[1] == secondSolution[1]:
+                    dic.remove(palabra)
+        if firstResponse[2] == "a":
+            for palabra in reversed(dic):
+                if palabra[2] == secondSolution[2]:
+                    dic.remove(palabra)
+        if firstResponse[3] == "a":
+            for palabra in reversed(dic):
+                if palabra[3] == secondSolution[3]:
+                    dic.remove(palabra)
+        if firstResponse[4] == "a":
+            for palabra in reversed(dic):
+                if palabra[4] == secondSolution[4]:
+                    dic.remove(palabra)
+
+
+#print(dic)
+#Hay un problema cuando una letra se repite en la respuesta, por ejemplo si introduzo como respuesta OYERE
+#El problema es que una e esta en amarillo y la otra en gris, sin embargo, el programa elimina a todas las palabras que tienen e
