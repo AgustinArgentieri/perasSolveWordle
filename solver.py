@@ -112,9 +112,6 @@ if "a" in firstResponse:
             if "s" not in palabra:
                 dic.remove(palabra)
 
-if "trone" in dic:
-    print("No elimine TRONE en la primera vuelta 0.5")
-
 #Ya revise en el diccionario que la letra indicada en amarillo se encuentre en todas las palabras del diccionario.
 #Ahora reviso que en la posicion que marcamos en amarillo, no se encuentre la letra en cuestion.
     if firstResponse[0] == "a":
@@ -138,20 +135,22 @@ if "trone" in dic:
             if palabra[4] == "s":
                 dic.remove(palabra)
 
-if "trone" in dic:
-    print("No elimine TRONE en la primera vuelta")
-
 #SEGUNDA VUELTA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 for i in range(5):
     print("Actualmente, existen " + str(len(dic)) + " palabras posibles.")
+    if i == 4:
+        print("Estas palabras son: ")
+        print(dic)
 
     for palabra in dic: #Verifico que la palabra que voy a tomar de solucion, no tenga letras repetidas.
         secondSolution = palabra
         if len(set(palabra)) == 5:
             break
 
-    print("Para continuar el juego, debe introducir la palabra \"" + secondSolution + "\" como segunda respuesta")
-    print("Una vez introducida la respuesta, vuelva a escribir el resultado obtenido con A, V, o G segun corresponda.")
+    if i < 4:
+        print("Para continuar el juego, debe introducir la palabra \"" + secondSolution + "\" como respuesta")
+        print("Una vez introducida la respuesta, vuelva a escribir el resultado obtenido con A, V, o G segun corresponda.")
+    
 
     firstResponse = returnCheckResponse()
 
